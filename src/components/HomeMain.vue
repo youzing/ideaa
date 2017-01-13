@@ -8,6 +8,8 @@
     <div class="PASSlogin2"></div>
   </div>
    <div class="touchlogo"><a href="http://mail.163.com/html/mail_intro/" target="_blank" title="流转系统"><img src=".././assets/login.png" alt="中国流转第一品牌" /></a></div>
+
+   
   </div>
 
 </template>
